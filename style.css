@@ -1,0 +1,15 @@
+.headr{
+    margin-top: 89px;
+    margin-left: 9px;
+}.button1{
+    height: 4em;
+    width: 17em;
+    background-color: #e30a5e;
+    color: white;
+    border-radius: 5px;
+}.text1{
+    margin-top: 2em;
+    font-weight: bold;
+}.text12{
+    color: rgb(221, 97, 118);
+}
